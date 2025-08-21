@@ -28,16 +28,3 @@ A Streamlit app that pulls financials from Yahoo Finance (via `yfinance`) and bu
 - [plotly](https://plotly.com/python/) for charts  
 
 ---
-
-## 🚀 Quick Start
-
-### 1. Clone & install
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-
-# Create a virtual environment (recommended)
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-
-pip install -r requirements.txt
