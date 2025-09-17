@@ -13,7 +13,6 @@ A Streamlit app that pulls financials from Yahoo Finance (via `yfinance`) and bu
 - 💰 Discounted Cash Flow (FCFF + Terminal Value, Gordon Growth)  
 - 🧪 Sensitivity analysis
   - 2D heatmap: Per-share value across WACC × Terminal Growth  
-  - 1D “tornado” style: Revenue Growth and EBIT Margin  
 - 🏟️ Football field valuation ranges (DCF, EV/EBITDA, P/E)  
 - ⚙️ Override levers: shares, margins, WACC, TG, Capex/Dep/NWC, multiples  
 
